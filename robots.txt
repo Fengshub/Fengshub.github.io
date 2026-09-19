@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://fengtian.github.io/sitemap.xml
