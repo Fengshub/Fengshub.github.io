@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>TODO: Affiliation</a>. TODO: Address. TODO: Contact. TODO: Motto.
+subtitle: "<a href='#'>TODO: Affiliation</a>. TODO: Address. TODO: Contact. TODO: Motto."
 
 profile:
   align: right
