@@ -16,6 +16,9 @@ output/playwright/
 test-results/
 vendor
 
+# Local source attachments copied into public assets as needed
+files/
+
 # Python bytecode from bin/ helper scripts
 __pycache__/
 *.pyc
