@@ -9,11 +9,11 @@ profile:
   more_info: >
     <swiper-container class="profile-photo-carousel" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" rewind="true" aria-label="Profile photos">
       <swiper-slide>
-        <img src="/assets/img/profile-lakeside.jpeg" alt="Feng Tian at a lakeside in Lake Tahoe" style="display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 4px;">
+        <img src="/fengtian.github.io/assets/img/profile-lakeside.jpeg" alt="Feng Tian at a lakeside in Lake Tahoe" style="display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 4px;">
         <p class="caption">Lakeside, Lake Tahoe</p>
       </swiper-slide>
       <swiper-slide>
-        <img src="/assets/img/profile-boardwalk.jpeg" alt="Feng Tian on a misty boardwalk in Yellowstone National Park" style="display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 4px;">
+        <img src="/fengtian.github.io/assets/img/profile-boardwalk.jpeg" alt="Feng Tian on a misty boardwalk in Yellowstone National Park" style="display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 4px;">
         <p class="caption">Misty boardwalk, Yellowstone National Park</p>
       </swiper-slide>
     </swiper-container>
@@ -61,8 +61,8 @@ images:
   pointer-events: auto;
 }
 
-.post h2 a[href="/news/"],
-.post h2 a[href="/publications/"] {
+.post h2 a[href$="/news/"],
+.post h2 a[href$="/publications/"] {
   text-transform: capitalize;
 }
 

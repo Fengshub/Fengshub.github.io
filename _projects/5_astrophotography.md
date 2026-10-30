@@ -11,7 +11,7 @@ category: fun
 Captured May 2026.
 
 <figure>
-  <img src="/assets/img/astro/ic1396-2026.webp" alt="IC 1396 and the Elephant's Trunk Nebula" style="display: block; width: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
+  <img src="{{ '/assets/img/astro/ic1396-2026.webp' | relative_url }}" alt="IC 1396 and the Elephant's Trunk Nebula" style="display: block; width: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
   <figcaption>IC 1396 · May 2026</figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ Captured May 2026.
 Captured April 2026.
 
 <figure>
-  <img src="/assets/img/astro/ngc7000-north-america.webp" alt="North America Nebula (NGC 7000)" style="display: block; width: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
+  <img src="{{ '/assets/img/astro/ngc7000-north-america.webp' | relative_url }}" alt="North America Nebula (NGC 7000)" style="display: block; width: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
   <figcaption>NGC 7000 · April 2026</figcaption>
 </figure>
 
@@ -35,13 +35,13 @@ Captured October 2024.
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" rewind="true" aria-label="Tsuchinshan-ATLAS photographs">
   <swiper-slide>
     <figure style="height: 100%; margin: 0; display: flex; flex-direction: column;">
-      <img src="/assets/img/astro/comet-atlas-2024-stack.webp" alt="Color view of Comet Tsuchinshan-ATLAS" style="display: block; width: 100%; height: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
+      <img src="{{ '/assets/img/astro/comet-atlas-2024-stack.webp' | relative_url }}" alt="Color view of Comet Tsuchinshan-ATLAS" style="display: block; width: 100%; height: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
       <figcaption>Color version · October 2024</figcaption>
     </figure>
   </swiper-slide>
   <swiper-slide>
     <figure style="height: 100%; margin: 0; display: flex; flex-direction: column;">
-      <img src="/assets/img/astro/comet-atlas-2024-original.webp" alt="Monochrome view of Comet Tsuchinshan-ATLAS" style="display: block; width: 100%; height: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
+      <img src="{{ '/assets/img/astro/comet-atlas-2024-original.webp' | relative_url }}" alt="Monochrome view of Comet Tsuchinshan-ATLAS" style="display: block; width: 100%; height: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
       <figcaption>Monochrome version · October 2024</figcaption>
     </figure>
   </swiper-slide>
@@ -56,19 +56,19 @@ Captured March 2024. The field includes NGC 4216 and the supernova 2024gy.
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" rewind="true" aria-label="NGC 4216 field photographs">
   <swiper-slide>
     <figure style="height: 100%; margin: 0; display: flex; flex-direction: column;">
-      <img src="/assets/img/astro/ngc4216-supernova-2024gy.webp" alt="NGC 4216 field with Supernova 2024gy marked" style="display: block; width: 100%; height: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
+      <img src="{{ '/assets/img/astro/ngc4216-supernova-2024gy.webp' | relative_url }}" alt="NGC 4216 field with Supernova 2024gy marked" style="display: block; width: 100%; height: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
       <figcaption>NGC 4216 and Supernova 2024gy · March 2024</figcaption>
     </figure>
   </swiper-slide>
   <swiper-slide>
     <figure style="height: 100%; margin: 0; display: flex; flex-direction: column;">
-      <img src="/assets/img/astro/ngc4216-galaxy-group.webp" alt="Annotated galaxy field around NGC 4216" style="display: block; width: 100%; height: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
+      <img src="{{ '/assets/img/astro/ngc4216-galaxy-group.webp' | relative_url }}" alt="Annotated galaxy field around NGC 4216" style="display: block; width: 100%; height: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
       <figcaption>Annotated galaxy field · March 2024</figcaption>
     </figure>
   </swiper-slide>
   <swiper-slide>
     <figure style="height: 100%; margin: 0; display: flex; flex-direction: column;">
-      <img src="/assets/img/astro/ngc4216-field.webp" alt="Wide field containing NGC 4216" style="display: block; width: 100%; height: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
+      <img src="{{ '/assets/img/astro/ngc4216-field.webp' | relative_url }}" alt="Wide field containing NGC 4216" style="display: block; width: 100%; height: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
       <figcaption>Wide-field view · March 2024</figcaption>
     </figure>
   </swiper-slide>
@@ -81,7 +81,7 @@ Captured March 2024. The field includes NGC 4216 and the supernova 2024gy.
 Captured August 2022.
 
 <figure>
-  <img src="/assets/img/astro/ngc6992-eastern-veil.webp" alt="Eastern Veil Nebula (NGC 6992)" style="display: block; width: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
+  <img src="{{ '/assets/img/astro/ngc6992-eastern-veil.webp' | relative_url }}" alt="Eastern Veil Nebula (NGC 6992)" style="display: block; width: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
   <figcaption>NGC 6992 · August 2022</figcaption>
 </figure>
 
@@ -94,13 +94,13 @@ Two sessions, shown newest first.
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" rewind="true" aria-label="Eagle Nebula photographs">
   <swiper-slide>
     <figure style="height: 100%; margin: 0; display: flex; flex-direction: column;">
-      <img src="/assets/img/astro/m16-eagle-2022.webp" alt="Eagle Nebula photographed in May 2022" style="display: block; width: 100%; height: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
+      <img src="{{ '/assets/img/astro/m16-eagle-2022.webp' | relative_url }}" alt="Eagle Nebula photographed in May 2022" style="display: block; width: 100%; height: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
       <figcaption>May 22, 2022 · 21 × 20 s · Canon XTi</figcaption>
     </figure>
   </swiper-slide>
   <swiper-slide>
     <figure style="height: 100%; margin: 0; display: flex; flex-direction: column;">
-      <img src="/assets/img/astro/m16-eagle-2021.webp" alt="First attempt at the Eagle Nebula in August 2021" style="display: block; width: 100%; height: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
+      <img src="{{ '/assets/img/astro/m16-eagle-2021.webp' | relative_url }}" alt="First attempt at the Eagle Nebula in August 2021" style="display: block; width: 100%; height: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
       <figcaption>August 2021 · 10 × 20 s · Canon XTi · first attempt</figcaption>
     </figure>
   </swiper-slide>
@@ -113,7 +113,7 @@ Two sessions, shown newest first.
 Captured April 2022.
 
 <figure>
-  <img src="/assets/img/astro/m8-lagoon-2022.webp" alt="Lagoon Nebula (M8)" style="display: block; width: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
+  <img src="{{ '/assets/img/astro/m8-lagoon-2022.webp' | relative_url }}" alt="Lagoon Nebula (M8)" style="display: block; width: 100%; max-height: 68vh; object-fit: contain; background: #080a0c;">
   <figcaption>M8 · April 2022</figcaption>
 </figure>
 
