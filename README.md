@@ -1,6 +1,6 @@
 # Feng Tian
 
-Personal academic website: [Feng Tian](https://fengshub.github.io/fengtian.github.io/)
+Personal academic website: [Feng Tian](https://fengshub.github.io/).
 
 My work focuses on computational imaging, lensless cameras, microscopy, and machine-learning methods for 3D imaging.
 
