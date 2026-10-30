@@ -14,12 +14,13 @@ My work focuses on computational imaging, lensless cameras, microscopy, and mach
 ## Website Content
 
 - Homepage and biography: `_pages/about.md`
+- Profile photo carousel: `_pages/about.md` uses `assets/img/profile-boardwalk.jpeg` and `assets/img/profile-lakeside.jpeg`
 - Publications: `_bibliography/papers.bib`
 - Research projects: `_projects/`
 - CV and papers: `assets/pdf/`
 - Social links: `_data/socials.yml`
 
-## Local Development
+## Local Development\files\photos\astro
 
 This site uses [al-folio](https://github.com/alshedivat/al-folio) with Jekyll and GitHub Pages.
 

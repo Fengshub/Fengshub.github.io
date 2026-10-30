@@ -1,13 +1,10 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-rss_icon: true # comment this line to hide the RSS icon
-cv_pdf: /assets/pdf/Feng-Tian-CV.pdf
 email: fttian@ucdavis.edu
 github_username: Fengshub
 linkedin_username: feng-tian-13a403230
 scholar_userid: seMUmpkAAAAJ
 orcid_id: 0009-0009-8922-7300
-rss_icon: true # comment this line to hide the RSS icon
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
